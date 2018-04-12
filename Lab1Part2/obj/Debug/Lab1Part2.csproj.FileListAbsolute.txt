@@ -1,0 +1,7 @@
+C:\Users\Ant\source\repos\Lab1Part2\Lab1Part2\bin\Debug\Lab1Part2.exe.config
+C:\Users\Ant\source\repos\Lab1Part2\Lab1Part2\bin\Debug\Lab1Part2.exe
+C:\Users\Ant\source\repos\Lab1Part2\Lab1Part2\bin\Debug\Lab1Part2.pdb
+C:\Users\Ant\source\repos\Lab1Part2\Lab1Part2\obj\Debug\Lab1Part2.csprojResolveAssemblyReference.cache
+C:\Users\Ant\source\repos\Lab1Part2\Lab1Part2\obj\Debug\Lab1Part2.csproj.CoreCompileInputs.cache
+C:\Users\Ant\source\repos\Lab1Part2\Lab1Part2\obj\Debug\Lab1Part2.exe
+C:\Users\Ant\source\repos\Lab1Part2\Lab1Part2\obj\Debug\Lab1Part2.pdb
